@@ -1,5 +1,5 @@
 # ABA_proposal
-The datasets of Imagined Speech classificaion can be downloaded from the link provided below.
+The datasets of Imagined Speech (track #3) classificaion can be downloaded from the link provided below.
 https://osf.io/pq7vb/
 
 Baseline model: EEGNet
